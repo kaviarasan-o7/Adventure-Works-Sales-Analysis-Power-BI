@@ -17,13 +17,6 @@ The best way to experience this project is through the live, interactive report.
 
 ---
 
-### 📊 Dashboard Preview
-
-*(Replace this placeholder with a high-quality screenshot of your main dashboard page)*
-![Dashboard Overview](https://placehold.co/800x450/2d3748/ffffff?text=Replace+with+Your+Dashboard+Screenshot)
-
----
-
 ### 🎯 Project Objective
 
 The goal of this project is to provide the Adventure Works management team with a powerful tool for monitoring business health. The dashboard consolidates complex sales data into an easy-to-understand format, enabling stakeholders to move beyond static reports and make dynamic, data-driven decisions.
