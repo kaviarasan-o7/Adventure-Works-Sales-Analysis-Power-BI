@@ -1,32 +1,45 @@
 # Adventure-Works-Sales-Analysis-Power-BI
 This Project goal is to analyze sales performance, identify top-selling products, and track key performance indicators (KPIs) for the Adventure Works.
 
-
-![Dashboard Preview](https://placehold.co/800x450/2d3748/ffffff?text=Replace+with+Your+Dashboard+Screenshot)
-
----
-
-### 🔴 Live Interactive Dashboard
-You can view and interact with the live dashboard here:
-
-**[➡️ Live Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiYOUR_PUBLIC_LINK_HEREIiwi...)**
-
-*(**Note:** Get this link from the "Publish to web (public)" option in Power BI. It's the best way to show your work!)*
-
 ---
 
 ### 📝 Project Overview
-This project is a sales and profitability dashboard for the Adventure Works company. It visualizes key business metrics to help management make data-driven decisions.
+
+This repository contains a Power BI project focused on analyzing sales and profitability for the Adventure Works. The report transforms raw sales data into actionable business intelligence, providing a clear and interactive overview of the company's performance. The primary goal is to enable stakeholders to identify trends, pinpoint top-performing areas, and make data-driven decisions.
+
+---
 
 ### ✨ Key Features
--   **KPIs Tracked:** Total Sales, Profit Margin %, Total Orders, and Year-over-Year Growth.
--   **Interactive Filters:** Analyze data by Date, Product Category, and Sales Region.
--   **Visual Analysis:** Charts show sales trends over time and product performance.
+
+* **Comprehensive KPI Tracking:** The dashboard monitors key metrics such as Total Sales Revenue, Profit Margin, Total Orders, and Returns Rate.
+* **Dynamic Filtering:** The report is fully interactive, allowing users to filter and slice data by different dimensions, including:
+    * Date (Year, Quarter, Month)
+    * Product (Category, Subcategory)
+    * Customer Demographics
+    * Sales Territory (Country, Region)
+* **In-Depth Analysis:** Multiple pages are dedicated to specific analyses, including customer deep dives, product profitability, and geographical sales performance.
+* **Trend Analysis:** Visualizations are designed to make it easy to spot trends, patterns, and anomalies in sales data over time.
+
+---
 
 ### 🛠️ Tools Used
--   Power BI Desktop
--   DAX (Data Analysis Expressions)
--   Power Query
+
+* **Power BI Desktop:** The primary tool used for developing the report, including data modeling, creating visuals, and writing measures.
+* **DAX (Data Analysis Expressions):** Used to create all custom calculations and key performance indicators (KPIs) for complex business logic.
+* **Power Query:** Used for the entire ETL (Extract, Transform, Load) process to clean, shape, and prepare the source data for analysis.
+
+---
 
 ### 🚀 How to View the Project File
-You can download the `.pbix` file from this repository and open it using Power BI Desktop to see the full data model, queries, and DAX measures.
+
+To view and interact with this Power BI report, you will need **Microsoft Power BI Desktop** installed.
+
+1.  **Download the Project:**
+    * Clone or download this repository to your local machine.
+
+2.  **Open the File:**
+    * Locate the `.pbix` file in the project folder.
+    * Open the file with Power BI Desktop.
+
+3.  **Explore:**
+    * Once opened, you can fully interact with the report. You can also explore the underlying data model, the Power Query transformations, and all the DAX measures used in the project.
